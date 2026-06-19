@@ -1,5 +1,7 @@
 # QGIS Styling Utilities
+
 /glc-fcs30d-export/Qgis/symbology_import.py
+
 /glc-fcs30d-export/Qgis/glc_fcs30d.qml
 
 This folder contains QGIS resources for visualizing GLC-FCS30D land cover maps.

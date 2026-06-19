@@ -27,6 +27,11 @@ GLC_FCS30D is a global 30 m land cover product providing annual land cover maps.
 
 Open the script in the Google Earth Engine Code Editor and run the export task.
 
+## Additional Resources
+
+- Google Earth Engine export scripts: `gee/`
+- QGIS styling resources: `qgis/`
+
 ## Author
 
 Enza Marino
